@@ -353,9 +353,8 @@ Thanks!
 └───────
 
 ┌── 「 *Jadi Bot* 」
-├ Jadi Bot 30k/bln
-├ Jadi Bot + Owner 35k
-├ Jasa Run Bot 20k
+├ Jadi Bot + Owner 25k
+├ Jasa Run Bot 15k
 └───────
 
 Contact person Owner :
