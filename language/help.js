@@ -353,7 +353,7 @@ Thanks!
 └───────
 
 ┌── 「 *Jadi Bot* 」
-├ Jadi Bot + Owner 25k
+├ Jadi Bot + Owner 20k
 ├ Jasa Run Bot 15k
 └───────
 
